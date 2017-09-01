@@ -1,0 +1,15 @@
+前端使用ant+dva
+Ant-Design(UI) https://ant.design/docs/react/introduce-cn
+AntV(数据可视化即图表) https://antv.alipay.com/
+Ant Motion(动态效果) http://motion.ant.design/
+AntD Library(Axure部件库，进行UI设计) http://ux.ant.design/
+Ant UX(进行业务逻辑设计) http://ux.ant.design/
+Dva(前端框架) https://github.com/dvajs/dva
+Dav-cli(架手架) https://github.com/dvajs/dva-cli
+Enclose.IO(Node.js编译器) http://enclose.io/
+
+后端使用spring-boot
+通过spring-data-rest快速搭建restful风格的接口 简单教程 http://blog.csdn.net/soul_code/article/details/54108105
+
+
+
